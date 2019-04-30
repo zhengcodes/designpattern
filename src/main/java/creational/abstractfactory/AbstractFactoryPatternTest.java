@@ -1,6 +1,6 @@
 package creational.abstractfactory;
 
-public class AbstractFactoryPatternDemo {
+public class AbstractFactoryPatternTest {
     public static void main(String[] args) {
         //1、获取形状工厂
         AbstractFactory shapeFactory = FactoryProducer.getFactory("SHAPE");

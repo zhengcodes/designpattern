@@ -1,6 +1,6 @@
 package creational.prototype;
 
-public class PrototypePatternDemo {
+public class PrototypePatternTest {
     public static void main(String[] args) {
         ShapeCache.loadCache();
         Shape clonedShape3 = (Shape) ShapeCache.getShape("3");

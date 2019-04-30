@@ -1,6 +1,6 @@
 package creational.factory;
 
-public class FactoryPatternDemo {
+public class FactoryPatternTest {
     public static void main(String[] args) {
         ShapeFactory shapeFactory = new ShapeFactory();
 

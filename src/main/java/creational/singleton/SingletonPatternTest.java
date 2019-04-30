@@ -1,6 +1,6 @@
 package creational.singleton;
 
-public class SingletonPatternDemo {
+public class SingletonPatternTest {
     public static void main(String[] args) {
 
         //不合法的构造函数

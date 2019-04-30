@@ -2,7 +2,7 @@ package creational.builder;
 
 import creational.builder.impl.HPComputerBuilder;
 
-public class ComputerCustomerDemo {
+public class ComputerCustomerTest {
     public static void main(String[] args) {
 
         Director director = new Director();
